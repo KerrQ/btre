@@ -1,7 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adcef854-2c9c-4007-86c5-8558fb2fa6c2" name="Default" comment="" />
+    <list default="true" id="adcef854-2c9c-4007-86c5-8558fb2fa6c2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/btre.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/migrations/0002_auto_20190807_0954.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/migrations/0003_inquiry_user_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contacts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btre/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/choises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/migrations/0002_auto_20190804_1147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/migrations/0003_auto_20190806_1811.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/realtors/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/building.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-inside-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-inside-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-inside-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-inside-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-inside-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/homes/home-inside-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/lightbox/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/lightbox/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/lightbox/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/lightbox/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/realtors/jenny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/realtors/kyle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/realtors/mark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/showcase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +116,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/registration/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="303">
+              <caret line="50" column="91" selection-start-line="50" selection-start-column="91" selection-end-line="50" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/accounts/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="70" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="70" />
+            <state relative-caret-position="187">
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -58,6 +163,9 @@
       <find>User</find>
       <find>request.POST('</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,8 +201,8 @@
         <option value="$PROJECT_DIR$/Contacts/models.py" />
         <option value="$PROJECT_DIR$/templates/listing.html" />
         <option value="$PROJECT_DIR$/Contacts/views.py" />
-        <option value="$PROJECT_DIR$/accounts/views.py" />
         <option value="$PROJECT_DIR$/templates/registration/dashboard.html" />
+        <option value="$PROJECT_DIR$/accounts/views.py" />
       </list>
     </option>
   </component>
@@ -104,6 +212,7 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -115,22 +224,6 @@
             <path>
               <item name="btre" type="b2602c69:ProjectViewProjectNode" />
               <item name="btre" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="registration" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,12 +268,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -503,20 +595,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
+    <entry file="file://$PROJECT_DIR$/templates/registration/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="70" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="303">
+          <caret line="50" column="91" selection-start-line="50" selection-start-column="91" selection-end-line="50" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/registration/dashboard.html">
+    <entry file="file://$PROJECT_DIR$/accounts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
